@@ -1,31 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c91e0b6a-a9ee-41dc-a575-708714b8d144" name="Changes" comment="" />
+    <list default="true" id="c91e0b6a-a9ee-41dc-a575-708714b8d144" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/codeforces round1037/No Casino in the Mountains.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforces round1037/OnlyOneDigit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforces round1037/codeforces round2131/Lever.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforces round1037/codeforces round2131/Make it equal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforces_crt/112 A- Petya String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforces_crt/218A - Word Capitalization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforces_crt/236A - Boy or Girl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforces_crt/266A - Stones on table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforces_crt/339A - Helpful Maths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforces_crt/546A - Soldier and Bananas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforces_crt/59A - Word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforces_crt/617A - Elephant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforces_crt/791A -Bear and Big Brother.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforces_crt/977A - Wrong Subtraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces_crt/158A - Next Round.py" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces_crt/158A - Next Round.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces_crt/1A- Theater Square.py" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces_crt/1A- Theater Square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces_crt/231A-Team.py" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces_crt/231A-Team.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces_crt/263A - Beautiful Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces_crt/263A - Beautiful Matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces_crt/282A - Bit++.py" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces_crt/282A - Bit++.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces_crt/50A - Domino pilling.py" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces_crt/50A - Domino pilling.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2zOmr8d5joayEf4aAh7wA94EuyJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.112 A- Petya String.executor": "Run",
+    "Python.158A - Next Round.executor": "Run",
+    "Python.1A- Theater Square.executor": "Run",
+    "Python.218A - Word Capitalization.executor": "Run",
+    "Python.231A-Team.executor": "Run",
+    "Python.236A - Boy or Girl.executor": "Run",
+    "Python.263A - Beautiful Matrix.executor": "Run",
+    "Python.266A - Stones on table.executor": "Run",
+    "Python.282A - Bit++.executor": "Run",
+    "Python.339A - Helpful Maths.executor": "Run",
+    "Python.50A - Domino pilling.executor": "Run",
+    "Python.546A - Soldier and Bananas.executor": "Run",
+    "Python.59A - Word.executor": "Run",
+    "Python.617A - Elephant.executor": "Run",
+    "Python.791A -Bear and Big Brother.executor": "Run",
+    "Python.Lever.executor": "Run",
+    "Python.Make it equal.executor": "Run",
+    "Python.No Casino in the Mountains.executor": "Run",
+    "Python.OnlyOneDigit.executor": "Run",
+    "Python.Wrong Subtraction.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/DELL/PycharmProjects/codeforces"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\PycharmProjects\codeforces" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+        <option value="bundled-python-sdk-4c141bd692a7-e2d783800521-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26927.90" />
       </set>
     </attachedChunks>
   </component>
